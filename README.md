@@ -24,3 +24,6 @@ Geliştirme sunucusunu başlatmak için:
 npm run dev
 ```
 Ardından tarayıcıda http://localhost:5173 adresini açarak projeyi görüntüleyebilirsiniz.
+
+## Ekran Görüntüsü
+![Proje Ekran Görüntüsü](./public/alinti.PNG)
